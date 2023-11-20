@@ -1,0 +1,21 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "fileManager.js",
+  "scripts": {
+    "start": "node fileManager.js",
+    "ls": "npm start list",
+    "cat": "npm start cat",
+    "add": "npm start add",
+    "rn": "npm start rn",
+    "cp": "npm start cp",
+    "mv": "npm start mv",
+    "rm": "npm start rm",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
